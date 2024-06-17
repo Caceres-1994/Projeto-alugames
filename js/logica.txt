@@ -1,0 +1,15 @@
+var:{
+    a
+    b
+    c
+}
+
+Inicio:{
+    primeiro numero: se ele for maior que os outros dois, incluir na lista, senao, incluir o proximo, senao o proximo.
+    segundo numero: se ele for maior que o outro numero que nao esta na lista e ele tambem nao esta na lista, incluir, senao, incluir o outro.
+    terceiro numero: o que sobra.
+ }
+
+ a
+
+ 
