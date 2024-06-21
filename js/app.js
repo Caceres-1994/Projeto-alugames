@@ -21,6 +21,8 @@ function imprimirConsole(){
     console.log(`${soma} jogo(s) alugado(s).`)
 }
 
+
+/*===============================================CODIGO PARA ESTUDO===================================================================*/
 /*let palavraParaVerificacaoPalindromo = prompt(`Insira uma palavra para saber se ela é um palíndromo.`)
 function verificacaoPalindromo(palavra) {
     if(palavra == palavra.split("").reverse().join("")){
